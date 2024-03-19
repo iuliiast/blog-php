@@ -1,0 +1,22 @@
+{
+    "name": "julstepanova/blog-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "iuliiast",
+            "email": "40248982+iuliiast@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.6",
+        "twig/twig": "^3.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+name: blog_php
+recipe: lamp
+config:
+  php: '8.0'
+  webroot: .
+  database: mysql
