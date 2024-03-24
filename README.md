@@ -1,6 +1,8 @@
 ## Simple PHP Blog
 Stack: PHP Slim, Twig, MySQL, Apache.
 
+Demo: http://blog-php.iuliii.com/
+
 ### How to run
 1. Download Lando
 Link: https://lando.dev/download/
